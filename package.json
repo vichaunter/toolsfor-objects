@@ -1,0 +1,10 @@
+{
+  "name": "@toolsfor/objects",
+  "version": "1.0.0",
+  "description": "Tools to supercharge your objects powers in JS",
+  "main": "index.js",
+  "repository": "http://www.github.com",
+  "author": "VicHaunter",
+  "license": "MIT",
+  "private": false
+}
